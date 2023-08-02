@@ -5,10 +5,9 @@ This repository contains code samples related to a series of video interviews co
 ![The Grad Project](images/tgp.png)
 
 |  Project Name | University  | Investigators  | Link  |   
-|---|---|---|---|
-| Analyzing with archival photographs from the Boston Globe using Rekognition  | Northeastern University  | Giulia Taurino, Si Wu  | link  | 
-| Mining data for systemic racism  | MIT  | Ben Lewis, Jessy Han | link  |
-| Creating a bot to convert written language to SQL queries  | Carnegie Mellon University |  Vincent Xu | link |   
+|---|---|---|---| 
+| Using Python and Data Analytics to Combat Systemic Racism  | MIT  | Ben Lewis, Jessy Han | link |
+| Harnessing the Power of Text-to-SQL Machine Learning with Amazon SageMaker  | Carnegie Mellon University |  Vincent Xu | [link](https://github.com/vxcent/sagemaker_gap_demo/tree/main) |   
 
 ## Security
 
