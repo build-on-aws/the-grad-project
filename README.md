@@ -1,6 +1,6 @@
 ## The Grad Project
 
-This repository contains the links to code samples related to a series of video interviews conducted by AWS Developer Relations. Choose a notebook and open it in [SageMaker Studio Lab](https://studiolab.sagemaker.aws/), a free platform where you can run machine learning experiements. Note: it might take a few days for you to gain access to the Lab environment. Follow the notebook instructions for alternate paths to run the project.
+This repository contains the links to code samples related to a series of video interviews conducted by AWS Developer Relations. Choose a notebook and open it in [SageMaker Studio Lab](https://studiolab.sagemaker.aws/), a free platform where you can run machine learning experiments. Note: it might take a few days for you to gain access to the Lab environment. Follow the notebook instructions for alternate paths to run the project.
 
 ![The Grad Project](/images/banner.png)
 
